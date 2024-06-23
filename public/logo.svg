@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 658 156.75">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-2 {
+        font-size: 111.41px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #545454;
+        font-family: Athelas-Regular, Athelas;
+      }
+
+      .cls-4 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-3 {
+        font-size: 45.04px;
+      }
+
+      .cls-5 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        fill: #1a5bba;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g>
+    <path class="cls-8" d="M18.16,145.89h64.84V62.89h-35v-19h35v-27H20.25C9.07,16.89,0,25.95,0,37.14v90.59c0,10.03,8.13,18.16,18.16,18.16Z"/>
+    <rect class="cls-8" x="102" y="16.89" width="27" height="27"/>
+    <path class="cls-8" d="M102,145.89h17.57c5.21,0,9.43-4.22,9.43-9.43V62.89h-27v83Z"/>
+  </g>
+  <text class="cls-2" transform="translate(139.6 91.92)"><tspan class="cls-5" x="0" y="0">P</tspan><tspan class="cls-4" x="57.94" y="0">r</tspan><tspan class="cls-1" x="97.38" y="0">o</tspan><tspan x="152.75" y="0">viden</tspan><tspan class="cls-6" x="411.78" y="0">c</tspan><tspan x="459.13" y="0">e</tspan></text>
+  <text class="cls-3" transform="translate(143.35 138.47)"><tspan class="cls-7" x="0" y="0">M</tspan><tspan x="40.08" y="0">edical Clinic of Kin</tspan><tspan class="cls-7" x="397.05" y="0">g</tspan><tspan x="418.4" y="0">sport</tspan></text>
+</svg>
